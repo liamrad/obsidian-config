@@ -1,0 +1,9 @@
+/*
+!.gitignore
+
+!/.obsidian
+/.obsidian/workspace
+
+!/templates
+
+!README.md

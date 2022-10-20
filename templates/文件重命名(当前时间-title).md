@@ -1,0 +1,1 @@
+<% tp.file.rename(tp.file.now("YYYYMMDD") + "-" + tp.frontmatter.title) %>

@@ -1,0 +1,17 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "communityThemeSortOrder": "release",
+  "useTab": false,
+  "tabSize": 2,
+  "attachmentFolderPath": "assets",
+  "showUnsupportedFiles": false,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "promptDelete": false,
+  "trashOption": "local"
+}

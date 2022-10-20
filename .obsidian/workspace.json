@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "688c827d1feba57c",
+    "type": "split",
+    "children": [
+      {
+        "id": "35dcd3db9f494836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c08f638b6be2e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-10-20.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4e3c097dcaaa254",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ed7c417626ddea6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b06442bb410fcba3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc9b558a1d5481f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "less",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cfac704eb7b42581",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bddece5bf149cbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa9c12e57146578b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-10-20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1d97377f340105f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022-10-20.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f18294f9e5c09034",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4cb3c519eb0f0163",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-10-20.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6c08f638b6be2e9d",
+  "lastOpenFiles": [
+    "README.md",
+    "2022-10-20.md",
+    "fe/base/20210927-git.md",
+    "fe/base/20211007-node.js01.md",
+    "面试/简历.md",
+    "fe/base/20210815-移动web整理.md",
+    "fe/base/20211221-vue3-03.md",
+    "fe/base/20211018-vue01.md",
+    "fe/base/20211013-node.js05.md",
+    "fe/base/20211008-node.js02.md"
+  ]
+}

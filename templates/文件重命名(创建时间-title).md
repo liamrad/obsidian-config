@@ -1,0 +1,1 @@
+<% tp.file.rename(tp.file.creation_date("YYYYMMDD") + "-" + tp.frontmatter.title) %>

@@ -1,0 +1,1 @@
+<% tp.file.rename(tp.frontmatter.date.split(' ')[0].replace(/-/g, '') + "-" + tp.frontmatter.title) %>
